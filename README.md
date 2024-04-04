@@ -2,7 +2,7 @@
     <img height="60px" width="60px" src="assets/favicon.svg" />
 </p>
 
-# Feature Selection Method for Identifying Alzheimer's Disease
+# Causal Inference-based Feature Selection Method for Identifying Alzheimer's Disease
 
 [Paper]()|[Project](https://github.com/Justin-12138/CI_bio)
 
